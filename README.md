@@ -54,6 +54,9 @@ A clean and interactive dashboard showing:
 ```
 
 ---
+## 📸 **Flowchart Preview**
+><img width="1187" height="621" alt="image" src="https://github.com/user-attachments/assets/c4ee7de2-a21e-4d81-ba41-47830b74d2dd" />
+
 
 ## 🚀 **What This System Solves**
 
@@ -63,7 +66,7 @@ A clean and interactive dashboard showing:
 * ✔️ Automated salary output
 * ✔️ Visual insights through PowerBI
 
----<img width="1187" height="621" alt="Screenshot 2025-12-05 135257" src="https://github.com/user-attachments/assets/51be7a03-54c7-4248-9f76-3afe513cdc33" />
+---
 
 ## 🧰 **Tech Used**
 
