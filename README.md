@@ -47,11 +47,9 @@ A clean and interactive dashboard showing:
 
 ## 📸 **Dashboard Preview**
 
-> *<img width="1219" height="688" alt="image" src="https://github.com/user-attachments/assets/f3a33b9a-8c8c-43c5-b84a-3af22d968ce6" />
-*
+> <img width="1219" height="688" alt="image" src="https://github.com/user-attachments/assets/f3a33b9a-8c8c-43c5-b84a-3af22d968ce6" />
 
 ```
-> <img width="1187" height="621" alt="Screenshot 2025-12-05 135257" src="https://github.com/user-attachments/assets/51be7a03-54c7-4248-9f76-3afe513cdc33" />
 
 ```
 
@@ -65,7 +63,7 @@ A clean and interactive dashboard showing:
 * ✔️ Automated salary output
 * ✔️ Visual insights through PowerBI
 
----
+---<img width="1187" height="621" alt="Screenshot 2025-12-05 135257" src="https://github.com/user-attachments/assets/51be7a03-54c7-4248-9f76-3afe513cdc33" />
 
 ## 🧰 **Tech Used**
 
