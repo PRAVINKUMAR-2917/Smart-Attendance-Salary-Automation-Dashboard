@@ -51,7 +51,8 @@ A clean and interactive dashboard showing:
 *
 
 ```
-!<img width="1197" height="618" alt="image" src="https://github.com/user-attachments/assets/01330904-31b9-4ab6-bd8a-aaaee6b06795" />
+ *<img width="1200" height="621" alt="image" src="https://github.com/user-attachments/assets/5944c1b9-943c-4397-9afd-e8bafa350917" />
+*
 ```
 
 ---
