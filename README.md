@@ -51,7 +51,7 @@ A clean and interactive dashboard showing:
 *
 
 ```
-![Dashboard Screenshot](your-image-file.png)
+!<img width="1197" height="618" alt="image" src="https://github.com/user-attachments/assets/01330904-31b9-4ab6-bd8a-aaaee6b06795" />
 ```
 
 ---
