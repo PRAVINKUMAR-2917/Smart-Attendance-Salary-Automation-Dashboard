@@ -1,7 +1,6 @@
 # 📊 **Automated Attendance Sheet & Salary Management System**
 
-A fully connected Excel-based attendance ecosystem powered by a smart **Master Attendance Sheet** and an interactive **PowerBI Dashboard**.
-Designed to reduce manual errors, automate calculations, and provide clear salary insights — all in one place. ⚡✔️
+A fully connected Excel-based attendance ecosystem powered by a smart **Master Attendance Sheet** and an interactive **PowerBI Dashboard**. Designed to reduce manual errors, automate calculations, and provide clear salary insights — all in one place. ⚡✔️
 
 ---
 
@@ -43,20 +42,28 @@ A clean and interactive dashboard showing:
 * 📞 Call-based earnings
 * 🔔 Final salary output clearly highlighted
 
+### 🖨️ **Automated Salary Slip Generation (Mail Merge)**
+
+* **Salary Slips** are automatically generated for each employee using **Mail Merge** in Word.
+* All salary data, including basic salary, deductions, and final amount, are dynamically populated.
+* **One consolidated PDF** is generated for all employees, reducing manual effort and ensuring error-free distribution.
+* Saves time by automatically sending a unified PDF with individual slips to all employees.
+<img width="634" height="898" alt="image" src="https://github.com/user-attachments/assets/586e93cd-2987-4545-8419-0fe78ecbd604" />
+
+
 ---
 
 ## 📸 **Dashboard Preview**
 
 > <img width="1219" height="688" alt="image" src="https://github.com/user-attachments/assets/f3a33b9a-8c8c-43c5-b84a-3af22d968ce6" />
 
-```
+---
 
-```
+## 📸 **Flowchart Preview**
+
+> <img width="1187" height="621" alt="image" src="https://github.com/user-attachments/assets/c4ee7de2-a21e-4d81-ba41-47830b74d2dd" />
 
 ---
-## 📸 **Flowchart Preview**
-><img width="1187" height="621" alt="image" src="https://github.com/user-attachments/assets/c4ee7de2-a21e-4d81-ba41-47830b74d2dd" />
-
 
 ## 🚀 **What This System Solves**
 
@@ -65,6 +72,7 @@ A clean and interactive dashboard showing:
 * ✔️ One master sheet for everything
 * ✔️ Automated salary output
 * ✔️ Visual insights through PowerBI
+* ✔️ Easy, error-free **Salary Slip Generation** for all employees
 
 ---
 
@@ -72,9 +80,14 @@ A clean and interactive dashboard showing:
 
 * 🟦 Microsoft Excel (Data Source)
 * 🟨 PowerBI (Visualization & Reporting)
+* 📝 Microsoft Word (Mail Merge for Salary Slips)
 
 ---
 
 ## 💡 **Simple • Automated • Insightful**
 
-This system transforms attendance data into clear, actionable insights—saving time and improving accuracy. 🌟
+This system transforms attendance data into clear, actionable insights—saving time, improving accuracy, and streamlining the process. 🌟
+
+---
+
+Let me know if you'd like any adjustments!
